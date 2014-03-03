@@ -1,0 +1,15 @@
+2014-03-03 15:10:40.809 WeAppToMoved[86131:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 15:10:40.815 WeAppToMoved[86131:80b] Unlimited access to network resources
+2014-03-03 15:10:40.823 WeAppToMoved[86131:80b] Fix applied for database locations?: YES
+2014-03-03 15:10:40.845 WeAppToMoved[86131:80b] [CDVTimer][splashscreen] 8.267045ms
+2014-03-03 15:10:40.845 WeAppToMoved[86131:80b] [CDVTimer][TotalPluginStartup] 8.776009ms
+2014-03-03 15:10:40.923 WeAppToMoved[86131:80b] Resetting plugins due to page load.
+2014-03-03 15:10:40.958 WeAppToMoved[86131:80b] Finished load of: file:///Users/maartenbressinck/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/2B6B3C4E-9DA9-479E-B1E6-E1F4A40A1D22/WeAppToMoved.app/www/index.html
+2014-03-03 16:37:04.479 WeAppToMoved[4097:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 16:37:04.501 WeAppToMoved[4097:80b] Unlimited access to network resources
+2014-03-03 16:37:04.504 WeAppToMoved[4097:80b] Fix applied for database locations?: YES
+2014-03-03 16:37:04.696 WeAppToMoved[4097:80b] [CDVTimer][splashscreen] 50.316989ms
+2014-03-03 16:37:04.696 WeAppToMoved[4097:80b] [CDVTimer][TotalPluginStartup] 50.712049ms
+2014-03-03 16:37:04.804 WeAppToMoved[4097:80b] Resetting plugins due to page load.
+2014-03-03 16:37:04.880 WeAppToMoved[4097:80b] Finished load of: file:///Users/maartenbressinck/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/3F0F83D3-816B-4862-933E-A2D321D34401/WeAppToMoved.app/www/index.html
+2014-03-03 16:37:04.947 WeAppToMoved[4097:80b] Received Event: deviceready
